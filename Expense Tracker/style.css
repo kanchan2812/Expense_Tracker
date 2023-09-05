@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #333;
+}
+
+.expense-form {
+    margin: 20px;
+}
+
+input[type="number"], input[type="text"], select {
+    margin: 5px;
+    padding: 5px;
+}
+
+button {
+    padding: 5px 10px;
+}
+
+.expense-item {
+    border: 1px solid #ccc;
+    margin: 10px;
+    padding: 10px;
+}
+
+.expense-history {
+    color: #888;
+    font-size: 0.8em;
+}
